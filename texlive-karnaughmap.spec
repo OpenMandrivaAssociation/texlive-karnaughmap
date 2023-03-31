@@ -1,6 +1,6 @@
 Name:		texlive-karnaughmap
 Version:	36989
-Release:	1
+Release:	2
 Summary:	Typeset Karnaugh maps
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/karnaughmap
