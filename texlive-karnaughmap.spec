@@ -3,7 +3,7 @@ Version:	36989
 Release:	2
 Summary:	Typeset Karnaugh maps
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/karnaughmap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/karnaughmap
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/karnaughmap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/karnaughmap.doc.r%{version}.tar.xz
